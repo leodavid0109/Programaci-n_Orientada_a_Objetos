@@ -14,7 +14,7 @@ Este repositorio contiene:
 
 - **Cheat Sheet de Programación Orientada a Objetos**: Se incluye un resumen práctico de los conceptos más importantes de la Programación Orientada a Objetos en forma de un "Cheat Sheet" o hoja de referencia rápida. Este recurso puede ser útil para repasar rápidamente los conceptos clave o como guía de consulta durante el desarrollo de proyectos.
 
-- **Proyectos de Desarrollo**: Se incluye el desarrollo de dos versiones de una misma idea de proyecto, programadas en Java y Python y que tratan sobre un sistema de finanzas desarrollado con un equipo de trabajo como parte de una compactación de los conocimientos adquiridos a lo largo del curso.
+- **Proyectos de Implementación Mis Finanzas**: Se incluye el desarrollo de dos versiones de una misma idea de proyecto, programadas en Java y Python y que tratan sobre un sistema de finanzas desarrollado con un equipo de trabajo como parte de una compactación de los conocimientos adquiridos a lo largo del curso.
 
 ## Cheat Sheet de Programación Orientada a Objetos
 
